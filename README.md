@@ -1,3 +1,5 @@
+soulXploit.lua
+
 local ScreenGui = Instance.new("ScreenGui", game.Players.LocalPlayer:WaitForChild("PlayerGui"))
 ScreenGui.Name = "SoulXploitLogo"
 
